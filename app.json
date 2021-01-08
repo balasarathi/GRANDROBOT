@@ -37,16 +37,12 @@
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "balasarathi"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1100231654"
-      },
-"GRAND_IMG": {
-         "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "1212858500"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -116,5 +112,5 @@
    ],
    "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
    "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
+   "repository": "https://github.com/balasarathi/GRANDROBOT"
 }
